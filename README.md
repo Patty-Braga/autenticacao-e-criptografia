@@ -2,7 +2,7 @@
 
 ## Esta API faz:
 
--login de usuário;
+- login de usuário;
 - A autenticação das rotas;
 - Cria um token para cada acesso do usuário, válido por até 8h;
 - Criptografa a senha antes de ser salva no banco de dados.
