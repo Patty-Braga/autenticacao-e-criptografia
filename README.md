@@ -1,4 +1,4 @@
-﻿# Autenticaçãao, criptografia, desenvolvimento de uma API CRUD com ligação ao banco de dados
+﻿# Autenticaçãao, criptografia e desenvolvimento de uma API CRUD com ligação ao banco de dados
 
 ## Esta API faz:
 
